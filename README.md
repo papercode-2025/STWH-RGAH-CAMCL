@@ -16,4 +16,13 @@ You can download the ADNI dataset via [ADNI](http://adni.loni.usc.edu/).
 * Plink
 
 # 3 Contributors
-The project is contributed by:****
+The project is contributed by:***
+
+# Note: this is an anonymous account. The GitHub URL of the authors will be provided once the paper is accepted.
+
+
+
+
+
+
+
